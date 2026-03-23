@@ -1,0 +1,10 @@
+{
+	"info": {
+		"id": "en.paradisescans",
+		"name": "Paradise Scans",
+		"version": 1,
+		"url": "https://paradisescans.com",
+		"contentRating": 0,
+		"languages": ["en"]
+	}
+}
